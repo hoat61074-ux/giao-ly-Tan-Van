@@ -1,0 +1,6 @@
+{
+  "name": "ÔN TẬP GIÁO LÝ - BGL HỌ TÂN VẠN",
+  "description": "Ứng dụng Ôn tập Giáo Lý, Hỏi & Đáp, Thi thử và Lưu kết quả công khai cho Ban Giáo Lý Họ Tân Vạn kiểm tra và theo dõi học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

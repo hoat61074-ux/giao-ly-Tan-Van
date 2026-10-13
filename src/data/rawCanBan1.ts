@@ -1,0 +1,581 @@
+export const RAW_CAN_BAN_1 = `
+Câu 193: Để được sống hạnh phúc đời đời với Thiên Chúa, ta cần phải làm gì? (Bài 1, câu 1, trang 8)
+A. Siêng năng làm việc
+B. Cần cù học tập
+C. Chăm thể dục thể thao
+D. Nhận biết Thiên Chúa và làm theo lời Người dạy
+Câu 194: Thiên Chúa đã ban cho ta điều gì để ta có thể nhận biết Người? (Bài 1, câu 2, trang 8)
+A. Tài năng và sự thông thái
+B. Sức khỏe và nghị lực
+C. Khát vọng và ước mơ 
+D. Trí khôn và lòng khao khát tìm kiếm Người
+Câu 195: Đâu là bằng chứng cho thấy Thiên Chúa hiện hữu? (Bài 1, câu 3, trang 8)
+A. Sự tốt đẹp
+B. Tiếng nói của lương tâm
+C. Khả năng của con người
+D. Sự tốt đẹp, trật tự của vũ trụ và lương tâm con người
+Câu 196: Con người nhờ đâu mà nhận biết những điều sâu xa về Thiên Chúa? (Bài 1, câu 4, trang 8)
+A. Nhờ trí khôn tự nhiên 		B. Nhờ nghiên cứu khoa học
+C. Nhờ kiến thức xã hội 		D. Nhờ Thiên Chúa bày tỏ 
+Câu 197: Mục đích của việc Thiên Chúa tự mạc khải chính mình cho con người là gì? (Bài 2, câu 1, trang 10)
+A. Để con người khám phá vẻ đẹp thiên nhiên
+B. Để con người nhận biết mọi người là anh em với nhau
+C. Để con người xin Thiên Chúa ban những ơn lành cần thiết
+D. Để con người có thể đến với Thiên Chúa và tham dự vào sự sống thần linh của Người
+Câu 198: Thiên Chúa dùng cách nào để mặc khải chính mình? (Bài 2, câu 2, trang 10)
+A. Thiên Chúa ban cho con người khả năng tự tìm kiếm và hiểu biết về Người
+B. Thiên Chúa sai các thiên thần hiện đến nói cho con người biết
+C. Thiên Chúa dùng các nhà thông thái nói cho con người biết
+D. Thiên Chúa dùng lời nói và việc làm qua từng giai đoạn trong lịch sử cứu độ
+Câu 199: Ai là người đầu tiên được Thiên Chúa tỏ mình ra trong lịch sử cứu độ? (Bài 2, câu 3, trang 10)
+A. Ông Áp-ra-ham			B. Ông Nô-ê
+C. Ông Mô-sê				D. Tổ Tông loài người
+Câu 200: Cuốn sách nào ghi lại toàn bộ Lời Thiên Chúa nói với con người? (Bài 3, câu 1, trang 12)
+A. Sách Cựu Ước			B. Sách Tông Đồ
+C. Sách Tân Ước 			D. Sách Kinh Thánh
+Câu 201: Các tác giả viết ra Kinh Thánh dưới sự hướng dẫn của ai? (Bài 3, câu 2, trang 12)
+A. Chúa Giê-su			B. Các ngôn sứ
+C. Chúa Cha				D. Chúa Thánh Thần 
+Câu 202: Làm sao để ta hiểu đúng về Kinh Thánh? (Bài 3, câu 3, trang 12)
+A. Ta phải xin ơn Chúa Thánh Thần soi sáng
+B. Ta phải vâng theo lời chỉ dẫn của Hội Thánh
+C. Ta có thể dùng các kiến thức của khoa học
+D. Cả A và B 
+Câu 203: Ai đã trao cho Hội Thánh nhiệm vụ gìn giữ và giải thích Kinh Thánh? (Bài 3, câu 4, trang 12)
+A. Thánh Phê-rô			B. Chúa Cha	
+C. Chúa Thánh Thần			D. Chúa Ki-tô
+Câu 204: Kinh Thánh gồm có mấy phần và mỗi phần gồm mấy cuốn? (Bài 4, câu 1, trang 14)
+A. 2 phần: Cựu Ước 29 cuốn và Tân Ước 46 cuốn
+B. 3 phần: Ngũ Kinh 5 cuốn, Cựu Ước 26 cuốn và Tân Ước 27 cuốn
+C. 3 phần: Ngôn Sứ 16 cuốn, Cựu Ước 27 cuốn và Tân Ước 12 cuốn
+D. 2 phần: Cựu Ước 46 cuốn và Tân Ước 27 cuốn
+Câu 205: Các sách Cựu Ước có nội dung chính nào? (Bài 4, câu 2, trang 14)
+A. Những giáo huấn về Thiên Chúa
+B. Những chỉ dẫn về đời sống con người
+C. Những kho tàng kinh nguyện và những tiên báo về Đấng Cứu Thế
+D. Cả A, B và C
+Câu 206: Các sách Tân Ước có nội dung chính nào? (Bài 4, câu 3, trang 14)
+A. Nói về cuộc đời Chúa Giê-su
+B. Các giáo huấn của Chúa Giê-su
+C. Đời sống Hội Thánh thuở ban đầu
+D. Cả A, B và C
+Câu 207: Toàn bộ Kinh Thánh quy hướng về ai? (Bài 4, câu 4, trang 14)
+A. Chúa Cha				B. Chúa Thánh Thần	
+C. Dân Ít-ra-en			D. Chúa Giê-su Ki-tô	
+Câu 208: Kinh Thánh được Hội Thánh tôn kính như thế nào? (Bài 4, câu 5, trang 14)
+A. Như tôn kính Đức Trinh Nữ Ma-ri-a
+B. Như tôn kính thánh Giu-se
+C. Như tôn kính các thánh nam nữ 
+D. Như tôn kính chính Mình Thánh Chúa
+Câu 209: Con người cần đáp lại tình thương của Thiên Chúa như thế nào? (Bài 5, câu 1, trang 16)
+A. Yêu mến Thiên Chúa như chính mình
+B. Yêu thương những người cùng niềm tin
+C. Cả A và B 
+D. Đặt trọn niềm tin vào Thiên Chúa
+Câu 210: Thế nào là tin tưởng hoàn toàn vào Thiên Chúa? (Bài 5, câu 2, trang 16)
+A. Là hoàn toàn để cho Thiên Chúa hướng dẫn 
+B. Là vâng theo mọi điều Thiên Chúa phán dạy
+C. Là hoàn toàn để cho Thiên Chúa làm mọi sự
+D. Cả A và B 
+Câu 211: Đức tin bởi đâu mà có? (Bài 5, câu 3, trang 16)
+A. Đức tin là ơn Hội Thánh ban cho ta qua cha mẹ
+B. Đức tin có được nhờ siêng năng tham dự thánh lễ
+C. Đức tin có được nhờ lãnh nhận bí tích Rửa Tội
+D. Đức tin vừa là ơn Thiên Chúa ban, vừa là sự đáp trả có ý thức và tự do của con người
+Câu 212: Kinh nào tóm tắt những điều ta phải tin? (Bài 5, câu 4, trang 16)
+A. Kinh Ngày Chúa Nhật		B. Kinh Tin
+C. Kinh Mười Điều Răn		D. Kinh Tin Kính
+Câu 213: Để suốt ngày luôn sống tốt, mỗi sáng sau khi thức dậy ta cần làm gì? (Bài 6, mục I, trang 18)
+A. Ta cần ghi nhớ các việc bổn phận của ta
+B. Ta cần quyết tâm vâng lời ông bà, cha mẹ
+C. Ta cần làm các việc theo thứ tự, việc nào quan trọng làm trước
+D. Ta cần hướng những tâm tình và ý nghĩ đầu tiên lên Thiên Chúa
+Câu 214: Kết thúc một ngày sống, tâm tình trước hết ta cần có đối với Thiên Chúa là gì? (Bài 6, mục II, trang 19)
+A. Tâm tình thống hối			B. Tâm tình cầu xin
+C. Tâm tình thờ lạy			D. Tâm tình tạ ơn
+Câu 215: Nhờ đâu mà ta biết được Thiên Chúa là Đấng Duy Nhất? (Bài 7, câu 1, trang 23)
+A. Nhờ bạn bè nói cho ta		B. Nhờ cô thầy truyền đạt
+C. Nhờ chăm chỉ học hành		D. Nhờ Thiên Chúa tỏ cho ta
+Câu 216: Thiên Chúa muốn mặc khải điều gì khi tỏ cho Mô-sê biết tên Người là Đấng Hiện Hữu? (Bài 7, câu 2, trang 23)
+A. Người là Đấng tự mình mà có
+B. Người không do ai tạo thành, không có kết thúc
+C. Người luôn có mặt bên ta để chăm sóc và cứu giúp ta
+D. Cả A, B và C 
+Câu 217: Ngoài việc tỏ cho biết Thiên Chúa là Đấng Hiện Hữu, Thiên Chúa còn cho ta biết thêm điều gì về Người? (Bài 7, câu 3, trang 23)
+A. Người là Đấng giàu lòng thương xót
+B. Người là Đấng luôn trung tín
+C. Người là Đấng chân thật và yêu thương
+D. Cả A, B và C
+Câu 218: Khi tuyên xưng vào Thiên Chúa duy nhất, ta tin nhận điều gì và phải sống thế nào? (Bài 7, câu 4, trang 23)
+A. Tin rằng mọi người trên thế giới chỉ tôn thờ một mình Thiên Chúa
+B. Tin nhận sự cao cả và uy quyền của Thiên Chúa
+C. Phải yêu mến và phụng thờ Thiên Chúa trên hết mọi sự
+D. Cả B và C 
+Câu 219: Ai dựng nên trời đất cùng muôn loài muôn vật? (Bài 8, câu 1, trang 25)
+A. Tổ Tông loài người		B. Các thiên thần
+C. Tự nhiên mà có			D. Thiên Chúa 
+Câu 220: Mọi loài mọi vật được Thiên Chúa tạo dựng như thế nào? (Bài 8, câu 2, trang 25)
+A. Người dùng đất để nhào nắn nên mọi sự
+B. Người truyền cho các thiên thần tạo nên mọi loài mọi vật
+C. Người dựng nên con người và để cho họ tự làm ra những loài khác
+D. Thiên Chúa dùng Lời quyền năng mà tạo nên mọi sự từ hư không
+Câu 221: Thiên Chúa tạo nên mọi loài mọi vật để làm gì? (Bài 8, câu 3, trang 25)
+A. Để mọi loài mọi vật thờ phượng Người
+B. Để Thiên Chúa được hưởng dùng
+C. Để mọi loài mọi vật làm bạn với Thiên Chúa
+D. Để biểu lộ và thông ban vinh quang của Người
+Câu 222: Thiên Chúa dựng nên các thiên thần để làm gì? (Bài 8, câu 4, trang 25)
+A. Bảo vệ Thiên Chúa			
+B. Cai trị vũ trụ 
+C. Cứu độ nhân loại 		
+D. Phụng sự Thiên Chúa và giúp đỡ con người
+Câu 223: Điều gì làm cho con người cao trọng hơn mọi loài mọi vật? (Bài 9, câu 1, trang 27)
+A. Là thụ tạo được dựng nên đầu tiên
+B. Được dựng nên giống hình ảnh Thiên Chúa
+C. Có khả năng nhận biết và yêu mến Thiên Chúa
+D. Cả B và C 
+Câu 224: Linh hồn con người do đâu mà có? (Bài 9, câu 2, trang 27)
+A. Cha mẹ sinh ra		         B. Tự nhiên mà có
+C. Tiến hóa mà ra		         D. Thiên Chúa trực tiếp dựng nên
+Câu 225: Khi tạo dựng, Thiên Chúa ban cho Tổ Tông loài người những đặc ân nào? (Bài 9, câu 3, trang 27)
+A. Sống hạnh phúc với Chúa
+B. Sống hòa hợp với bản thân, người khác và vạn vật
+C. Không phải chịu đau khổ và không phải chết
+D. Cả A, B và C 
+Câu 226: Được dựng nên giống hình ảnh Thiên Chúa, ta phải sống thế nào? (Bài 9, câu 4, trang 27)
+A. Sống tâm tình tạ ơn và yêu mến Thiên Chúa
+B. Làm cho cuộc sống của ta và của mọi người ngày càng tốt đẹp 
+C. Ta phải thể hiện hiện vai trò làm chủ của ta trước các thụ tạo khác
+D. Cả A và B 
+Câu 227: Ma quỷ đã cám dỗ Tổ Tông loài người điều gì? (Bài 10, câu 1, trang 29)
+A. Không tuân giữ luật Sa-bát
+B. Không giữ luật yêu thương
+C. Phá hoại công trình sáng tạo của Thiên Chúa
+D. Từ chối vâng lời Thiên Chúa
+Câu 228: Đâu là hậu quả của tội Tổ Tông? (Bài 10, câu 2, trang 29)
+A. Mất ân nghĩa với Chúa
+B. Mất sự hòa hợp với chính mình, người khác và mọi loài mọi vật
+C. Phải đau khổ và phải chết
+D. Cả A, B và C
+Câu 229: Tội Tổ Tông có truyền từ đời này sang đời khác không? (Bài 10, câu 3 và 4, trang 29)
+A. Có, vì tội Tổ Tông không thể tha thứ được
+B. Không, vì chỉ có A-đam và E-va phạm tội mà thôi
+C. Không, vì Thiên Chúa tha thứ một lần là hết
+D. Có, vì tất cả mọi người đều liên đới với A-đam và với nhau
+Câu 230: Tội Tổ Tông làm cho con người sinh ra trong tình trạng nào? (Bài 10, câu 3, trang 29)
+A. Tình trạng tội lỗi			B. Bản tính yếu đuối 
+C. Dễ nghiêng về điều xấu		D. Cả A, B và C
+Câu 231: Sau khi Tổ Tông loài người phạm tội, Thiên Chúa đã làm gì? (Bài 10, câu 5, trang 29)
+A. Thiên Chúa bỏ rơi con người và không tha thứ cho họ
+B. Thiên Chúa đuổi con người ra khỏi vườn Địa Đàng và truy sát họ
+C. Thiên Chúa tha thứ và tiếp tục để cho họ sống trong vườn Địa Đàng
+D. Thiên Chúa hứa ban Đấng Cứu Thế để cứu chuộc con người 
+Câu 232: Thiên Chúa đã chọn ai để lập một dân riêng, nhằm chuẩn bị cho Đấng Cứu Thế đến? (Bài 11, câu 1, trang 31)
+A. Ông Nô-ê				B. Ông Mô-sê
+C. Vua Đa-vít				D. Ông Áp-ra-ham 
+Câu 233: Ông Áp-ra-ham được Thiên Chúa hứa ban điều gì? (Bài 11, câu 2, trang 31)
+A. Một miền đất phì nhiêu
+B. Một dòng dõi đông đảo
+C. Từ dòng dõi ông sẽ phát xuất Đấng Cứu Thế
+D. Cả A, B và C
+Câu 234: Ai được mệnh danh là cha của những kẻ tin vào Thiên Chúa, và vì sao? (Bài 11, câu 3, trang 31)
+A. Vua Đa-vít, vì ông đã chiến đấu chống lại những kẻ bất tuân lệnh Thiên Chúa và lập nên một dân tộc tin thờ Thiên Chúa
+B. Ông Mô-sê, vì Thiên Chúa đã trao cho ông quyền chăn dắt dân mà Chúa chọn
+C. Ông A-đam, vì Thiên Chúa chọn ông làm nguyên tổ của loài người
+D. Ông Áp-ra-ham, vì ông đã tin tưởng mạnh mẽ vào lời hứa của Thiên Chúa, nhờ đó làm phát sinh một dân tộc đông đảo tin vào Thiên Chúa
+Câu 235: Trong Cựu Ước, hình ảnh nào báo trước việc Chúa Cha trao ban Chúa Giê-su để cứu chuộc ta? (Bài 11, câu 4, trang 31)
+A. Hình ảnh ông Mô-sê đưa dân vượt qua Biển Đỏ
+B. Hình ảnh ông Nô-ê đóng tàu để tránh lụt hồng thuỷ
+C. Hình ảnh ông Giô-suê đưa dân qua sông Gio-đan
+D. Hình ảnh ông Áp-ra-ham hiến dâng người con duy nhất là I-xa-ác
+Câu 236: Lễ nào của người Do Thái kỷ niệm việc Thiên Chúa cứu Ít-ra-en khỏi ách nô lệ Ai Cập? (Bài 12, câu 1, trang 33)
+A. Lễ Đầu Mùa			B. Lễ Lều 
+C. Lễ Ngũ Tuần			D. Lễ Vượt Qua
+Câu 237: Lễ Vượt Qua của người Do Thái có mối liên hệ gì với sứ mạng của Chúa Giê-su? (Bài 12, câu 2, trang 33)
+A. Báo trước việc Chúa Giê-su vượt qua các cám dỗ trong sa mạc
+B. Báo trước việc Chúa Giê-su sẽ lên trời vinh hiển 
+C. Báo trước việc Chúa Giê-su sẽ trở lại trong vinh quang
+D. Báo trước việc Chúa Giê-su chết và sống lại để cứu chuộc ta
+Câu 238: Giao ước Xi-nai là giao ước giữa ai với ai? (Bài 12, câu 3, trang 33)
+A. Giữa Thiên Chúa với A-đam	
+B. Giữa Thiên Chúa với Nô-ê
+C. Giữa Thiên Chúa với Mô-sê	
+D. Giữa Thiên Chúa với dân Ít-ra-en
+Câu 239: Nơi Giao ước Xi-nai, Thiên Chúa đã hứa điều gì với dân Ít-ra-en? (Bài 12, câu 3, trang 33)
+A. Hứa ban cho dân Ít-ra-en một miền đất hứa tràn trề sữa mật
+B. Hứa cứu dân Ít-ra-en khỏi ách nô lệ Ai Cập
+C. Hứa ban cho họ một Đấng Cứu Thế
+D. Nhận Ít-ra-en làm dân riêng và hứa che chở họ
+Câu 240: Luật của Thiên Chúa được tóm tắt ở đâu? (Bài 12, câu 4, trang 33)
+A. Kinh Tin Kính			B. Năm Điều Răn Hội Thánh
+C. Kinh Mười Bốn Mối		D. Mười Điều Răn
+Câu 241: Đấng Cứu Thế được các ngôn sứ giới thiệu như thế nào? (Bài 13, câu 1, trang 36)
+A. Thuộc dòng dõi vua Đa-vít, sinh tại Bê-lem, bởi một trinh nữ
+B. Là người tôi trung của Thiên Chúa, đầy tràn Thần Khí
+C. Chịu nhiều đau khổ và chịu chết để cứu chuộc nhân loại
+D. Cả A, B và C
+Câu 242: Dân Do Thái chờ đợi điều gì nơi Đấng Cứu Thế ? (Bài 13, câu 2, trang 36)
+A. Sẽ cứu chuộc loài người khỏi tội lỗi
+B. Có quyền năng trên đau khổ, bệnh tật và sự chết
+C. Sẽ chịu chết và phục sinh để cứu chuộc họ
+D. Sẽ giúp đỡ họ về vật chất và phục hồi Ít-ra-en thành một dân tộc hùng cường
+Câu 243: Trong Kinh Thánh, những ai mong đợi Đấng Cứu Thế đến để cứu chuộc loài người khỏi tội lỗi? (Bài 13, câu 3, trang 36)
+A. Pha-ri-sêu và giới lãnh đạo Do Thái
+B. Các vị vua của dân Ít-ra-en
+C. Tất cả dân Ít-ra-en
+D. Những người nghèo của Thiên Chúa
+Câu 244: Trong năm phụng vụ, Mùa Vọng giúp ta sống tâm tình nào? (Bài 13, câu 4, trang 36)
+A. Sám hối ăn năn			B. Mừng Chúa phục sinh 
+C. Mừng Chúa nhập thể 		D. Mong đợi Đấng Cứu Thế
+Câu 245: Ta hiểu như thế nào về cầu nguyện? (Bài 15, câu 1, trang 40)
+A. Chỉ có cầu nguyện, con người mới được Thiên Chúa tha thứ tội lỗi
+B. Cầu nguyện là mong muốn Thiên Chúa làm theo ý muốn của mình
+C. Cầu nguyện chỉ để xin những ơn cần thiết về phần hồn và phần xác
+D. Cầu nguyện là nâng tâm hồn lên để gặp gỡ, thưa chuyện và kết hợp cùng Thiên Chúa
+Câu 246: Đâu là lý do ta cần cầu nguyện? (Bài 15, câu 2, trang 40)
+A. Vì Thiên Chúa là nguồn sống của ta
+B. Vì Thiên Chúa hằng mời gọi và mong chờ ta tới gặp gỡ Người
+C. Vì Thiên Chúa cần ta cầu nguyện và thưa chuyện với Người
+D. Cả A và B 
+Câu 247: Làm thế nào để ta có thể cầu nguyện cách sốt sắng? (Bài 15, câu 3, trang 40)
+A. Ưu tiên thời gian cho cầu nguyện
+B. Xin ơn Chúa Thánh Thần
+C. Tin tưởng Thiên Chúa đang nghe và nói chuyện với ta
+D. Cả A, B và C
+Câu 248: Đâu là những cách thức mà ta có thể cầu nguyện với Thiên Chúa? (Bài 16, câu 1, trang 42)
+A. Cầu nguyện bằng lời và chiêm niệm
+B. Cầu nguyện bằng chiêm niệm và suy niệm 
+C. Cầu nguyện bằng suy niệm và bằng lời
+D. Cầu nguyện bằng lời, bằng chiêm niệm và suy niệm 
+Câu 249: Thế nào là cầu nguyện thành lời? (Bài 16, câu 2, trang 42)
+A. Dùng tâm trí để ngắm nhìn, lắng nghe, yêu mến và kết hiệp với Thiên Chúa trong thinh lặng
+B. Dùng trí khôn để suy nghĩ những Lời Chúa dạy, hoặc những biến cố trong đời sống, để tâm sự với Thiên Chúa
+C. Dùng trí khôn để suy nghĩ những Lời Chúa dạy, đồng thời lớn tiếng ngợi khen Thiên Chúa với hết cả tấm lòng thành
+D. Thưa lên với Chúa những lời chân thành, hoặc vừa đọc vừa suy theo những lời kinh mà tâm sự với Người
+Câu 250: Thế nào là chiêm niệm? (Bài 16, câu 3, trang 42)
+A. Thưa lên với Chúa những lời chân thành, hoặc vừa đọc vừa suy theo những lời kinh mà tâm sự với Người
+B. Dùng trí khôn để suy nghĩ những Lời Chúa dạy, hoặc những biến cố trong đời sống, để tâm sự với Thiên Chúa
+C. Dùng trí khôn để suy nghĩ những Lời Chúa dạy, đồng thời lớn tiếng ngợi khen Thiên Chúa với hết cả tấm lòng thành
+D. Dùng tâm trí để ngắm nhìn, lắng nghe, yêu mến và kết hiệp với Thiên Chúa trong thinh lặng
+Câu 251: Thế nào là suy niệm? (Bài 16, câu 4, trang 42)
+A. Thưa lên với Chúa những lời chân thành, hoặc vừa đọc vừa suy theo những lời kinh mà tâm sự với Người
+B. Dùng tâm trí để ngắm nhìn, lắng nghe, yêu mến và kết hiệp với Thiên Chúa trong thinh lặng
+C. Dùng trí khôn để suy nghĩ những Lời Chúa dạy, đồng thời lớn tiếng ngợi khen Thiên Chúa với hết cả tấm lòng thành
+D. Dùng trí khôn để suy nghĩ những Lời Chúa dạy, hoặc những biến cố trong đời sống, để tâm sự với Thiên Chúa
+Câu 252: Cầu nguyện đích thực đòi hỏi ta phải có những tâm tình nào? (Bài 17, câu 1, trang 44)
+A. Biết ơn và cầu xin		
+B. Chúc tụng, thờ lạy và xin ơn
+C. Ngợi khen, thờ lạy và thống hối	
+D. Thờ lạy, chúc tụng, tạ ơn và cầu xin
+Câu 253: Thờ lạy Thiên Chúa nghĩa là thế nào? (Bài 17, câu 2, trang 44)
+A. Ta nhận biết những hồng ân Chúa ban mà cảm tạ Người
+B. Ta hết lòng thành kính mà tạ ơn Chúa mọi nơi mọi lúc
+C. Ta xin ơn để biết làm theo ý Chúa, sống tha thứ và yêu thương
+D. Nhận biết mình thấp hèn tội lỗi mà sấp mình trước mặt Thiên Chúa là Đấng đầy uy nghi, cao cả và quyền năng
+Câu 254: Chúc tụng Thiên Chúa nghĩa là thế nào? (Bài 17, câu 3, trang 44)
+A. Ta nhận biết mình hèn yếu mà xin ơn Chúa tha thứ
+B. Ta hết lòng thành kính mà tạ ơn Chúa 
+C. Ta xin ơn để biết làm theo ý Chúa, sống tha thứ và yêu thương
+D. Nhận biết những hồng ân Chúa ban và ca ngợi tình thương của Người
+Câu 255: Tạ ơn Thiên Chúa nghĩa là thế nào? (Bài 17, câu 4, trang 44)
+A. Nhận biết mình hèn yếu mà xin ơn Chúa tha thứ
+B. Nhận biết những hồng ân Chúa ban và ca ngợi Người
+C. Xin ơn để biết làm theo ý Chúa, sống tha thứ và yêu thương
+D. Hết lòng thành kính tạ ơn Chúa mọi nơi, mọi lúc, mọi hoàn cảnh
+Câu 256: Khi cầu nguyện, đâu là những ơn mà ta cần xin? (Bài 17, câu 5, trang 44)
+A. Xin cho biết làm theo ý Chúa
+B. Xin biết sống tha thứ và được tha thứ
+C. Xin những ơn lành hồn xác cho mình và cho mọi người
+D. Cả A, B và C
+Câu 257: Ai là mẫu gương cầu nguyện trong Cựu Ước? (Bài 18, câu 1, trang 46)
+A. Các Tông Đồ			B. Đức Ma-ri-a  
+C. Chúa Giê-su 			D. Các tổ phụ 
+Câu 258: Các tổ phụ đã nêu gương gì trong đời sống cầu nguyện? (Bài 18, câu 1, trang 46)
+A. Về đời sống chuyên chăm cầu nguyện, tinh thần đức tin
+B. Về việc cầu nguyện lâu giờ, trung thành trong đức tin
+C. Về việc cầu nguyện chung, luôn cầu nguyện cùng người khác và cho người khác
+D. Về đức tin, sự vâng phục, lòng kiên nhẫn và sự hy sinh quảng đại
+Câu 259: Ông Áp-ra-ham đã làm gì để thể hiện niềm tin mạnh mẽ vào Thiên Chúa? (Bài 18, câu 2, trang 46)
+A. Luôn lắng nghe và làm theo ý Thiên Chúa
+B. Xây dựng nhiều bàn thờ để tế lễ và chuyển cầu cho người tội lỗi
+C. Hiến dâng cho Thiên Chúa con một của mình làm của lễ
+D. Cả A, B và C
+Câu 260: Ai đã được trực tiếp gặp gỡ Chúa, thường xuyên thưa chuyện thân mật với Người như với bạn hữu và nhiều lần chuyển cầu cho dân Chúa? (Bài 18, câu 3, trang 46)
+A. Ông Áp-ra-ham			B. Vua Sa-lô-mon	
+C. Vua Đa-vít				D. Ông Mô-sê 
+Câu 261: Vua Đa-vít đã làm những gì để hướng lòng mình về với Chúa? (Bài 18, câu 4, trang 46)
+A. Chuyển cầu cho dân và nhân danh dân mình mà cầu nguyện
+B. Tỏ lòng sám hối và vâng phục Thiên Chúa
+C. Sáng tác nhiều Thánh Vịnh để ca tụng Thiên Chúa
+D. Cả A, B và C
+Câu 262: Ai là người đã sáng tác nhiều Thánh Vịnh để ca tụng Thiên Chúa? (Bài 18, câu 4, trang 46)			
+A. Ngôn sứ I-sai-a			B. Ông Mô-sê 	
+C. Vua Sa-lô-mon			D. Vua Đa-vít	
+Câu 263: Trong phép lạ hóa bánh ra nhiều, Chúa Giê-su truyền cho dân chúng ngồi thành từng nhóm, mỗi nhóm bao nhiêu người? (Bài 19, trang 48)
+A. 20 người				B. 10 người
+C. 100 người				D. 50 người
+Câu 264: Trong phép lạ hóa bánh ra nhiều, sau khi dân chúng ăn xong, Chúa Giê-su nói gì? (Bài 19, trang 48)
+A. Người bảo mọi người chuẩn bị xuống núi vì trời đã tối dần
+B. Người mắng các Tông Đồ vì đã yếu lòng tin
+C. Người hứa sẽ tiếp tục làm phép lạ 
+D. Ngài bảo họ phải thu dọn những gì còn thừa, kẻo phí đi
+Câu 265: Khi được hỏi: “Nếu biết 5 phút nữa sẽ chết thì bấy giờ con sẽ làm gì?”, thánh Lu-y Gông-da-ga đã trả lời thế nào? (Bài 19, trang 49)
+A. Con sẽ đi xưng tội			B. Con sẽ về nhà ở bên cạnh mẹ
+C. Con sẽ vào nhà thờ cầu nguyện	D. Con vẫn tiếp tục chơi
+Câu 266: Nội dung Điều Răn Thứ Nhất là gì? (Bài 20, câu 1, trang 52)
+A. Thờ phượng Thiên Chúa và các thánh trên hết mọi sự
+B. Thánh hóa ngày Chúa Nhật để thờ phượng Thiên Chúa
+C. Tôn kính danh Thiên Chúa vì Danh Người là thánh
+D. Tin kính, trông cậy, yêu mến và thờ phượng một mình Thiên Chúa
+Câu 267: Khi tin vào Thiên Chúa, ta cần có tâm tình và thái độ nào?(Bài 20, câu 2, trang 52)
+A. Tin kính Thiên Chúa với tất cả lòng thành
+B. Không được nghi ngờ những gì Thiên Chúa truyền
+C. Không được chối bỏ những gì Hội Thánh dạy
+D. Cả A, B và C
+Câu 268: Đức cậy dạy ta sự gì? (Bài 20, câu 3, trang 52)
+A. Dạy ta yêu mến Thiên Chúa hết lòng, hết linh hồn và trí khôn
+B. Dạy ta tin tưởng và đón nhận mọi chân lý Người mặc khải
+C. Mến Chúa và yêu thương tha nhân như chính bản thân mình 
+D. Dạy ta cậy trông vững vàng, phó thác mọi sự trong tay Thiên Chúa
+Câu 269: Trông cậy vào Thiên Chúa, ta ước mong điều gì? (Bài 20, câu 3, trang 52)
+A. Người ban cho ta mọi thứ ta muốn
+B. Người ban cho ta những phúc lành ở đời sau
+C. Người ban cho ta những phúc lành ở đời này
+D. Người ban phúc lành ở đời này và đời sau
+Câu 270: Đức mến dạy ta sự gì? (Bài 20, câu 4, trang 52)
+A. Dạy ta phó thác mọi sự cho tình yêu Thiên Chúa
+B. Dạy ta cậy trông vào sự tha thứ của Thiên Chúa
+C. Dạy ta tin nhận những gì Hội Thánh dạy
+D. Dạy ta yêu mến Thiên Chúa trên tất cả và làm theo Lời Chúa dạy
+Câu 271: Ngoài việc suy phục, tôn thờ, chúc tụng, ta còn phải có thái độ nào nữa đối với Thiên Chúa? (Bài 21, câu 1, trang 54)
+A. Tạ ơn các thánh của Thiên Chúa với hết lòng thành kính
+B. Yêu mến Thiên Chúa như yêu mến bản thân mình vậy
+C. Yêu mến các thiên thần với hết lòng thành kính
+D. Tạ ơn Thiên Chúa với hết lòng thành kính
+Câu 272: Tại sao cử hành thánh lễ lại là việc thờ phượng hoàn hảo nhất? (Bài 21, câu 2, trang 54)
+A. Vì ta trực tiếp dâng lên Chúa Cha lời nguyện của mình
+B. Vì thánh lễ là do những người có chức thánh cử hành 
+C. Vì chỉ qua thánh lễ Thiên Chúa mới ban ơn cho ta  
+D. Vì ta được kết hợp với hy lễ của Chúa Giê-su 
+Câu 273: Khi cử hành thánh lễ, ta làm gì để kết hợp với hy lễ của Chúa Giê-su? (Bài 21, câu 2, trang 54)
+A. Dâng lên Thiên Chúa những của cải mà ta làm ra
+B. Dâng lên Thiên Chúa mọi việc ta làm được trong ngày
+C. Dâng lên Thiên Chúa tất cả những thành công và thất bại của ta
+D. Dâng lên Thiên Chúa bản thân, cuộc sống và mọi việc ta làm
+Câu 274: Tội phạm sự thánh nghịch điều răn thứ mấy? (Bài 21, câu 3, trang 54)
+A. Điều Răn Thứ Bốn			B. Điều Răn Thứ Ba
+C. Điều Răn Thứ Hai			D. Điều Răn Thứ Nhất
+Câu 275: Tội bói toán và ma thuật phạm đến điều răn thứ mấy? (Bài 21, câu 3, trang 54)
+A. Điều Răn Thứ Bốn			B. Điều Răn Thứ Ba
+C. Điều Răn Thứ Hai			D. Điều Răn Thứ Nhất
+Câu 276: Nội dung Điều Răn Thứ Hai là gì? (Bài 22, câu 1, trang 56)
+A. Thờ phượng một mình Thiên Chúa	
+B. Giữ ngày Chúa Nhật
+C. Thảo kính cha mẹ				
+D. Tôn kính Danh Thiên Chúa
+Câu 277: Những hành vi nào sau đây xúc phạm đến Danh Thiên Chúa? (Bài 22, câu 2, trang 56)
+A. Sử dụng Danh Thiên Chúa, Chúa Giê-su, Đức Mẹ và các thánh cách bất xứng
+B. Không giữ những điều đã thề hứa nhân danh Thiên Chúa, lấy Danh Chúa làm chứng cho một điều gian dối
+C. Nói phạm đến Danh Thiên Chúa và Hội Thánh
+D. Cả A, B và C
+Câu 278: Sử dụng Danh Thiên Chúa, Chúa Giê-su, Đức Mẹ và các thánh cách bất xứng phạm đến điều răn thứ mấy? (Bài 22, câu 2, trang 56)
+A. Điều Răn Thứ Bốn			B. Điều Răn Thứ Nhất	
+C. Điều Răn Thứ Ba			D. Điều Răn Thứ Hai 
+Câu 279: Không giữ những điều đã thề hứa nhân danh Thiên Chúa phạm đến điều răn thứ mấy? (Bài 22, câu 2, trang 56)
+A. Điều Răn Thứ Bốn			B. Điều Răn Thứ Ba
+C. Điều Răn Thứ Nhất                        D. Điều Răn Thứ Hai
+Câu 280: Xúc phạm đến Danh Thiên Chúa, Hội Thánh và lấy danh Thiên Chúa làm chứng cho một điều gian dối phạm đến điều răn thứ mấy? (Bài 22, câu 2, trang 56)
+A. Điều Răn Thứ Bốn			B. Điều Răn Thứ Nhất
+C. Điều Răn Thứ Ba			D. Điều Răn Thứ Hai 
+Câu 281: Tại sao ta lại nhận một vị thánh bổn mạng khi chịu phép Rửa Tội? (Bài 22, câu 3, trang 56)
+A. Để ta chính thức có tên trong Hội Thánh
+B. Để vị thánh bổn mạng chuyển cầu cho ta
+C. Để ta cố gắng noi gương các nhân đức của ngài
+D. Cả A, B và C
+Câu 282: Ta nên làm Dấu Thánh Giá khi nào? (Bài 22, câu 4, trang 56)
+A. Khởi đầu ngày sống		B. Trước các giờ kinh nguyện
+C. Khởi đầu công việc			D. Cả A, B và C
+Câu 283: Nội dung Điều Răn Thứ Ba là gì? (Bài 23, câu 1, trang 58)
+A. Thờ phượng một mình Thiên Chúa
+B. Tôn kính Danh Thiên Chúa
+C. Thánh hóa ngày Chúa Nhật
+D. Thánh hóa ngày Chúa Nhật và các ngày lễ buộc
+Câu 284: Để thánh hóa ngày Chúa Nhật và các ngày lễ buộc, ta cần thực hành những bổn phận nào? (Bài 23, câu 2, trang 58)
+A. Tham dự thánh lễ			B. Nghỉ việc xác 
+C. Làm việc lành			D. Cả A, B và C
+Câu 285: Hội Thánh dạy ta phải tham dự thánh lễ Chúa Nhật thế nào? (Bài 23, câu 3, trang 58)
+A. Tích cực tham dự phụng vụ Thánh Thể
+B. Tích cực tham dự phụng vụ Lời Chúa
+C. Chỉ cần tham dự một trong hai phần phụng vụ
+D. Tích cực tham dự thánh lễ từ đầu đến cuối
+Câu 286: Trong trường hợp không thể tham dự thánh lễ Chúa Nhật, ta có những phương cách nào để bù lại? (Bài 23, câu 4, trang 58)
+A. Không buộc làm gì cả 
+B. Phải đi xưng tội ngay
+C. Phải tham dự hai thánh lễ để bù lại 
+D. Cầu nguyện hoặc làm việc lành để bù lại
+Câu 287: Nội dung Điều Răn Thứ Bốn là gì? (Bài 24, câu 1, trang 60)
+A. Hiếu thảo đối với ông bà cha mẹ
+B. Kính mến, vâng lời những người có trách nhiệm dạy dỗ ta
+C. Sống đúng bổn phận trong gia đình, Hội Thánh và ngoài xã hội
+D. Cả A, B và C
+Câu 288: Đâu là bổn phận của con cái đối với cha mẹ? (Bài 24, câu 2, trang 60)
+A. Tôn kính, yêu mến và vâng lời trong những điều chính đáng
+B. Lo chăm sóc về phần hồn và phần xác khi các ngài còn sống
+C. Lo việc an táng, cầu nguyện, xin lễ khi các ngài đã qua đời
+D. Cả A, B và C
+Câu 289: Trong gia đình, anh chị em phải sống với nhau thế nào? (Bài 24, câu 3, trang 60)
+A. Kính trên nhường dưới 		B. Yêu thương, giúp đỡ nhau
+C. Đùm bọc lẫn nhau			D. Cả A, B và C
+Câu 290: Những người trong cùng gia tộc phải sống với nhau thế nào? (Bài 25, câu 1, trang 62)
+A. Kính trọng, yêu mến nhau		B. Biết ơn, giúp đỡ nhau
+C. Cầu nguyện cho nhau		D. Cả A, B và C
+Câu 291: Người Công Giáo phải làm gì để bày tỏ lòng biết ơn đối với ông bà tổ tiên? (Bài 25, câu 2, trang 62)
+A. Cầu nguyện
+B. Dâng lễ
+C. Cúng lễ gia tiên theo truyền thống dân tộc
+D. Cả A, B và C
+Câu 292: Điều Răn Thứ Tư dạy ta phải có thái độ nào đối với thầy cô, các giới chức và tổ quốc? (Bài 25, câu 3, trang 62)
+A. Kính mến, vâng lời thầy cô			
+B. Kính mến, vâng lời các giới chức đạo và đời
+C. Yêu mến tổ quốc		
+D. Cả A, B và C
+Câu 293: Ta nên cư xử ra sao với người nước ngoài sống quanh mình? (Bài 25, câu 4, trang 62)
+A. Biểu lộ lòng hiếu khách và coi họ như anh chị em
+B. Tôn trọng quyền lợi chính đáng của họ
+C. Phải duy trì tình thân hữu giữa các dân tộc
+D. Cả A, B và C
+Câu 294: Nội dung Điều Răn Thứ Năm là gì? (Bài 26, câu 1, trang 64)
+A. Tôn trọng của cải và danh dự của người khác
+B. Tôn trọng sự sống siêu nhiên của người khác
+C. Tôn trọng sự sống tự nhiên của mình và của người khác
+D. Tôn trọng sự sống tự nhiên, siêu nhiên của mình và của người khác
+Câu 295: Giáo Hội dạy thế nào về việc tôn trọng và bảo vệ sự sống tự nhiên? (Bài 26, câu 2, trang 64)
+A. Giữ gìn sức khoẻ, giữ vệ sinh chung
+B. Bảo vệ sự sống con người
+C. Không làm hại đến mạng sống mình và người khác
+D. Cả A, B và C
+Câu 296: Giáo Hội dạy thế nào về việc tôn trọng và bảo vệ sự sống siêu nhiên? (Bài 26, câu 3, trang 64)
+A. Quan tâm đến lợi ích của linh hồn mình và người khác
+B. Quyết tâm xa lánh tội lỗi và gương xấu
+C. Chăm lo cầu nguyện và tập luyện các nhân đức
+D. Cả A, B và C
+Câu 297: Tại sao chỉ có Thiên Chúa mới là chủ và có quyền trên mạng sống con người mà thôi? (Bài 26, câu 4, trang 64)
+A. Vì con người được Thiên Chúa sinh ra  
+B. Vì con người là giống thiêng liêng không thể chết được
+C. Vì sự sống con người là do cha mẹ sinh ra
+D. Vì sự sống con người là do ân huệ Thiên Chúa ban
+Câu 298: Làm gương xấu lôi kéo người khác phạm tội thì phạm đến điều răn thứ mấy? (Bài 26, câu 5, trang 64)
+A. Điều Răn Thứ Nhất 		B. Điều Răn Thứ Ba
+C. Điều Răn Thứ Bốn			D. Điều Răn Thứ Năm
+Câu 299: Những hành vi nào sau đây được xem là phạm đến Điều Răn Thứ Năm? (Bài 26, câu 5, trang 64)
+A. Cố ý giết người, tự sát, phá thai, làm chết êm dịu			
+B. Gây nguy hiểm cho sức khỏe của mình và người khác
+C. Làm gương xấu, lôi kéo người khác phạm tội			
+D. Cả A, B và C
+Câu 300: Đâu là nội dung Điều Răn Thứ Sáu? (Bài 27, câu 1, trang 66)
+A. Chỉ những người ở bậc tu trì mới phải sống khiết tịnh
+B. Sống công bằng trong lời nói và việc làm
+C. Không được ham muốn vợ / chồng người khác
+D. Sống khiết tịnh tùy theo bậc sống của mình
+Câu 301: Tội nào sau đây phạm đến đức khiết tịnh? (Bài 27, câu 2, trang 66)
+A. Nhìn ngắm, tưởng nghĩ, nói hoặc viết những điều dâm ô, thô tục
+B. Xem, phổ biến hoặc sản xuất sách báo, phim ảnh khiêu dâm
+C. Tìm thú vui nhục dục bên ngoài cuộc sống hôn nhân, một mình hoặc với người khác			
+D. Cả A, B và C	
+Câu 302: Để giữ trọn điều răn thứ sáu, ta phải sống thế nào? (Bài 27, câu 3, trang 66)
+A. Năng cầu nguyện, xưng tội, rước lễ, sống tiết độ, ăn ở nết na
+B. Siêng năng làm việc, tránh ăn uống say sưa, quá độ
+C. Không giao thiệp hoặc làm bạn với kẻ xấu nết
+D. Cả A, B và C
+Câu 303: Đâu là nội dung Điều Răn Thứ Bảy? (Bài 28, câu 1, trang 68)
+A. Tôn trọng của cải của người khác 
+B. Sử dụng của cải trong tinh thần liên đới
+C. Chia sẻ của cải với mọi người
+D. Cả A, B và C
+Câu 304: Ta phải làm gì để thể hiện sự tôn trọng đối với tài sản của người khác? (Bài 28, câu 2, trang 68)
+A. Không được lấy tài sản của người khác
+B. Không được làm hư hại của cải của người khác
+C. Không giữ của người khác cách bất công
+D. Cả A, B và C
+Câu 305: Những hành vi nào sau đây được coi là tội lấy của người khác cách bất công? (Bài 28, câu 3, trang 68)
+A. Trộm cắp và gian lận
+B. Đầu cơ tích trữ, bắt chẹt người tiêu dùng
+C. Cho vay ăn lời quá đáng, hối lộ và lấy của chung
+D. Cả A, B và C
+Câu 306: Như thế nào được gọi là giữ tài sản của người khác cách bất công? (Bài 28, câu 4, trang 68)
+A. Không trả nợ, không hoàn lại của nhặt được
+B. Trả tiền công không công bằng, trốn thuế
+C. Chứa chấp của gian
+D. Cả A, B và C
+Câu 307: Khi nào thì ta bị xem là phạm tội làm hại tài sản của người khác? (Bài 28, câu 5, trang 69)
+A. Làm hư hại hoặc đồng lòng với kẻ làm hư hại
+B. Để cho kẻ thuộc về mình làm hại mà chẳng ngăn cấm
+C. Chẳng chịu trách nhiệm do kẻ thuộc về mình gây ra
+D. Cả A, B và C  
+Câu 308: Tội không chia sẻ của cải vật chất cho người nghèo đói, túng thiếu, không tôn trọng và bảo vệ môi trường là tội phạm đến điều răn thứ mấy? (Bài 28, câu 6, trang 69)
+A. Điều Răn Thứ Sáu			B. Điều Răn Thứ Mười
+C. Điều Răn Thứ Tám			D. Điều Răn Thứ Bảy
+Câu 309: Nội dung Điều Răn Thứ Tám là gì? (Bài 29, câu 1, trang 71)
+A. Sống thành thật, tôn trọng tự do và nhân phẩm của người khác
+B. Tôn trọng của cải của người khác, sử dụng của cải trong tinh thần liên đới
+C. Tôn trọng danh dự và mạng sống của mình cũng như của người khác
+D. Sống thành thật, làm chứng cho sự thật và tôn trọng danh dự mọi người 
+Câu 310: Thế nào là sống thành thật? (Bài 29, câu 2, trang 71)
+A. Sống thẳng thắn
+B. Không gian dối
+C. Thận trọng trong những điều lương tâm buộc giữ kín
+D. Cả A, B và C
+Câu 311: Tôn trọng danh dự người khác nghĩa là thế nào? (Bài 29, câu 4, trang 71)
+A. Luôn nghĩ tốt, nói tốt về người khác
+B. Tiết lộ tất cả mọi bí mật mà mình biết về người khác kể cả khi không bị đòi buộc
+C. Có thì nói có không thì nói không
+D. Nghĩ tốt cho mọi người, không nói xấu ai và không tiết lộ lỗi của người khác khi không bị ích chung đòi buộc
+Câu 312: Tội nào sau đây nghịch với Điều Răn Thứ Tám? (Bài 29, câu 5, trang 71)
+A. Làm chứng gian, nói dối, vu khống và không làm chứng cho sự thật
+B. Nói hành, nói xấu làm mất danh dự người khác
+C. Tán dương người khác khi họ làm điều xấu
+D. Cả A, B và C
+Câu 313: Nội dung của Điều Răn Thứ Chín là gì? (Bài 30, câu 1, trang 73)
+A. Chỉ sống khiết tịnh theo bậc sống tu trì 
+B. Suy nghĩ tích cực về bản thân mình và người khác
+C. Tôn trọng sự sống tự nhiên và siêu nhiên của con người
+D. Suy nghĩ trong sạch, chiến đấu chống lại những ham muốn xác thịt
+Câu 314: Giữ cho tâm hồn luôn trong sáng giúp ta điều gì? (Bài 30, câu 2, trang 73)
+A. Để ta nhận ra và chu toàn ý Chúa trong mọi sự ở đời sau
+B. Nhận ra những khuyết điểm của mình cũng như của người khác
+C. Nhận ra và giải quyết mọi công việc cách thuận lợi và nhanh chóng
+D. Nhận ra và chu toàn ý Chúa ở đời này và được ngắm nhìn Ngài ở đời sau
+Câu 315: Để nhận ra và chu toàn ý Chúa trong mọi sự ở đời này, và được ngắm nhìn Thiên Chúa ở đời sau, ta cần phải làm gì? (Bài 30, câu 2, trang 73)
+A. Giữ cho đôi mắt luôn được trong sáng
+B. Giữ cho tâm hồn luôn được vui vẻ bình an 
+C. Giữ cho trí óc luôn được minh mẫn
+D. Giữ cho tâm hồn luôn được trong sáng
+Câu 316: Làm thế nào để giữ tâm hồn mình luôn trong sáng? (Bài 30, câu 3, trang 73)
+A. Năng cầu nguyện, xét mình, xưng tội, rước lễ, đọc Lời Chúa và sách báo lành mạnh 
+B. Xa lánh dịp tội bằng cách làm chủ ngũ quan và trí tưởng tượng
+C. Sống kỷ luật, đoan trang trong cách ăn mặc, nói năng và cư xử 
+D. Cả A, B và C
+Câu 317: Hành vi nào sau đây không thuộc vào Điều Răn Thứ Chín? (Bài 30, câu 1, trang 73)
+A. Sống trong sạch từ trong suy nghĩ 
+B. Để cho tâm hồn luôn được trong sáng 
+C. Biết chiến đấu chống lại ham muốn xác thịt
+D. Sống thật thà trong tư tưởng, lời nói và việc làm 
+Câu 318: Điều Răn Thứ Mười đòi buộc ta phải có thái độ nào trước tài sản của người khác? (Bài 31, câu 1, trang 75)
+A. Không ham mê của cải quá đáng 
+B. Không tham lam muốn lấy của người khác
+C. Không ghen tỵ khi người khác giàu có
+D. Cả A, B và C
+Câu 319: Sự tham lam thường đưa đến những hậu quả nào? (Bài 31, câu 2, trang 75)
+A. Khiến lòng ta ra u tối		B. Làm ta phán đoán lệch lạc
+C. Làm ta dễ sa ngã phạm tội		D. Cả A, B và C
+Câu 320: Ta phải làm gì để chống lại tính ham mê của cải? (Bài 31, câu 3, trang 75)
+A. Tập sống tinh thần nghèo khó, hi sinh và từ bỏ 
+B. Dành ưu tiên cho việc tìm kiếm Nước Trời
+C. Luôn hướng lòng về Chúa, ao ước được ngắm nhìn Người
+D. Cả A, B và C
+Câu 321: Ta cần làm gì để chống lại tính ghen tỵ? (Bài 31, câu 4, trang 75)
+A. Cầu xin sự lành cho bản thân mình
+B. Cầu xin sự lành cho người khác 
+C. Vui mừng khi người khác được may mắn
+D. Cả B và C
+`;

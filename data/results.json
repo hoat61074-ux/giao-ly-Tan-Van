@@ -1,0 +1,35 @@
+[
+  {
+    "studentName": "Giuse Nguyễn Văn An",
+    "parentName": "Nguyễn Văn Bình & Trần Thị Hương",
+    "className": "Sơ Cấp 1",
+    "classId": "so-cap-1",
+    "submissionType": "qa",
+    "score": 18,
+    "maxScore": 20,
+    "correctCount": 18,
+    "totalQuestions": 18,
+    "subGroup": "Giáo họ Tân Vạn",
+    "answersSummary": [],
+    "id": "result_1791649147224_72zvo",
+    "submittedAt": "2026-10-10T16:19:07.224Z",
+    "verified": false,
+    "teacherNote": ""
+  },
+  {
+    "studentName": "Nguyễn Thị Mai",
+    "saintName": "Maria",
+    "className": "Sơ Cấp 1",
+    "classId": "so-cap-1",
+    "subGroup": "Giáo họ Thánh Tâm",
+    "score": 9.5,
+    "correctCount": 19,
+    "totalQuestions": 20,
+    "timeSpentSeconds": 540,
+    "verified": true,
+    "teacherNote": "Học thuộc bài rất tốt, trả lời chính xác các câu hỏi về Thiên Chúa sáng tạo.",
+    "answersSummary": [],
+    "id": "result_1791515974663_4sbef",
+    "submittedAt": "2026-10-09T03:19:34.663Z"
+  }
+]
